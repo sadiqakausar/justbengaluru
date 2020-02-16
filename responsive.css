@@ -8,7 +8,7 @@
     font-size: 20px;
   }
   
-  .lesson {
+  .genre {
     width: 50%;
     margin-bottom: 50px;
   }
@@ -61,4 +61,6 @@
   footer {
     text-align: center;
   }
+  btn{
+    width:25%;
 }
